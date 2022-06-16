@@ -4,5 +4,8 @@ public class PrzykladowaKlasa {
         System.out.println("Przykladowa klasa");
         System.out.println("1234");
         System.out.println("1234");
+        System.out.println("1234");
+        System.out.println("1234");
+        System.out.println("1234");
     }
 }
