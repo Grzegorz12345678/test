@@ -7,5 +7,7 @@ public class PrzykladowaKlasa {
         System.out.println("1234");
         System.out.println("1234");
         System.out.println("1234");
+
+        //napis
     }
 }
